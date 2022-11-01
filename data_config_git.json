@@ -1,0 +1,18 @@
+{
+	"data_sources": {
+		"db_name": {
+			"connection_string": "<connection_string>"
+		},
+		"common_api": {
+			"tenant_id": "<tenant_id>"
+		},
+		"graph_api": {
+			"client_id_graph": "<client_id_graph>",
+			"client_secret_graph": "<client_secret_graph>"
+		},
+		"pbi_api": {
+			"client_id_pbi": "<client_id_pbi>",
+			"client_secret_pbi": "<client_secret_pbi>"
+		}
+	}
+}
